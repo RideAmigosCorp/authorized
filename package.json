@@ -19,7 +19,7 @@
     {
       "name": "Mark Stosberg",
       "url": "https://mark.stosberg.com",
-      "email": "mark@rideamigos.com",
+      "email": "mark@rideamigos.com"
     }
   ],
   "homepage": "https://github.com/rideamigoscorp/authorized",
@@ -32,7 +32,7 @@
   },
   "files" : [
     "lib/*",
-    "*.js",
+    "*.js"
   ],
   "types": "lib/authorized.d.ts",
   "devDependencies": {
